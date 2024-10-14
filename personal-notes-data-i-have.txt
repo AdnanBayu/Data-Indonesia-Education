@@ -1,0 +1,29 @@
+Twitter Data
+- tweets
+- username
+- likes
+- reply tweet count
+- url
+- date
+
+Google News Data
+- title
+- publisher
+- synopsis
+- link
+
+Kaggle Social Media Survey
+- gender
+- occupation
+- high freq socmed apps
+- screentime per user
+- daily screentime
+- score disturb productivity
+- score waste time
+- score can't self control
+- score forget time
+- score FOMO
+- effort to detox
+- struggle to detox
+- need apps
+- ever used time control apps
