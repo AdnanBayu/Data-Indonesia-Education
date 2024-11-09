@@ -3,7 +3,7 @@ Personal project to deep dive on data technologies, including:
 <li> data understanding
 <li> data crawl
 <li> data visualization
-<li> data dashboadr
+<li> data dashboard
 
 ### Dashboard Tableau
 ![Tableau Dashboard](./Tableau/Primary-Secondary Indonesian School Data.png) </br>
